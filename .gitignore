@@ -1,0 +1,18 @@
+# 忽略环境变量配置文件
+.env
+
+# 忽略日志文件
+combined.log
+error.log
+
+# 忽略配置文件
+config.js
+
+# 忽略 Node.js 模块目录
+node_modules/
+
+# 忽略钱包信息文件
+wallet_info.txt
+
+# 忽略锁定文件
+package-lock.json
