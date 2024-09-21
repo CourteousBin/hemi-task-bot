@@ -1,9 +1,15 @@
 
 # Hemi Task Bot 🤖
 
+<div align="center">
+
+  <img src="https://ice.frostsky.com/2024/09/21/68fb6be25effffc2941465a64c9be288.jpeg" style="width: 60%;" alt="描述文本" />
+
+</div>
+
 ## 简介 🌟
 
-Hemi Task Bot 是一个用于自动化 Hemi 任务的机器人，包括跨链操作和代币交换。它旨在帮助用户更轻松地管理和执行各种区块链任务。
+Hemi Task Bot 是一个用于自动化 Hemi 任务的机器人，包括跨链操作和代币交换。它旨在帮助用户更轻松地管理和执行 `TuneilETH(跨链)` 以及 `Swap on HEMI` 区块链任务。
 
 请访问 [Hemi](https://points.absinthe.network/hemi/start) 并使用我的邀请码 **c75cca23** 进行注册！这样可以帮助您更快地开始使用 Hemi。
 
