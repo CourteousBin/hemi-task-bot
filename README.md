@@ -13,6 +13,10 @@ Hemi Task Bot 是一个用于自动化 Hemi 任务的机器人，包括跨链操
 
 请访问 [Hemi](https://points.absinthe.network/hemi/start) 并使用我的邀请码 **c75cca23** 进行注册！这样可以帮助您更快地开始使用 Hemi。
 
+配合视频服用：<p align="left">
+  <a href="https://www.bilibili.com/video/BV1dYtrezEw1/?vd_source=300cc9efb25391e5b8b193fe4a0fc033" target="_blank"><img src="https://img.shields.io/badge/Bilibili-FF6A8A?logo=bilibili&logoColor=fff" alt="LinkedIn"/></a>
+</p>
+
 
 ## 特性 🚀
 
