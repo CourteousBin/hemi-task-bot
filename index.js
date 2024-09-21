@@ -189,7 +189,7 @@ class HemiSepolia {
       continue; // 跳过当前账号，继续下一个账号
     }
 
-    await new Promise(resolve => setTimeout(resolve, 1000));
+    await new Promise(resolve => setTimeout(resolve, 5000));
 
     try {
       // 创建 Hemi Sepolia 客户端并进行 WETH 和 DAI 交换
@@ -197,7 +197,7 @@ class HemiSepolia {
       // 兑换 WETH
       await hemiSepolia.swapWeth();
 
-      await new Promise(resolve => setTimeout(resolve, 1000));
+      await new Promise(resolve => setTimeout(resolve, 5000));
 
       // 兑换 DAI
       await hemiSepolia.swapDai();
