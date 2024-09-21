@@ -18,8 +18,6 @@ Hemi Task Bot 是一个用于自动化 Hemi 任务的机器人，包括跨链操
 
 - 🌐 自动化跨链操作
 - 💱 代币交换功能
-- 🔗 支持 Ethereum 和其他区块链
-- 👥 开源项目，欢迎贡献
 
 
 ## 安装 🛠️
@@ -40,7 +38,7 @@ npm install
 npm start
 ```
 
-要创建一个新的钱包，请运行：
+要创建多个新的钱包，请运行：
 
 ```bash
 npm run create
